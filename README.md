@@ -7,7 +7,7 @@
 
 One-Click to deploy your own ChatGPT web UI.
 
-/ [反馈 Issues](https://github.com/xia-shangzhou/ChatGPT-NextWeb/issues) /  [打赏](https://raw.githubusercontent.com/xia-shangzhou/photo/main/dashang.jpg) / 
+/ [反馈 Issues](https://github.com/xia-shangzhou/ChatGPT-NextWeb/issues) /  [打赏](https://raw.githubusercontent.com/xia-shangzhou/photo/main/dashang.jpg) / [BTC USDT](https://raw.githubusercontent.com/xia-shangzhou/photo/main/BTCdizhi.jpg) /
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web)
 
