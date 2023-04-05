@@ -50,7 +50,7 @@ One-Click to deploy your own ChatGPT web UI.
 
 1. Get [OpenAI API Key](https://platform.openai.com/account/api-keys);
 2. Click
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FYidadaa%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web);
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2xia-shangzhou%2FChatGPT-NextWeb&env=OPENAI_API_KEY&env=CODE&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web);
 3. Enjoy :)
 
 ## 保持更新 Keep Updated
@@ -138,7 +138,7 @@ Override openai api request protocol.
 
 点击下方按钮，开始二次开发：
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Yidadaa/ChatGPT-Next-Web)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/xia-shangzhou/ChatGPT-NextWeb)
 
 在开始写代码之前，需要在项目根目录新建一个 `.env.local` 文件，里面填入环境变量：
 
@@ -158,16 +158,10 @@ OPENAI_API_KEY=<your api key here>
 ### 本地部署 Local Deployment
 
 ```shell
-bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/scripts/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/xia-shangzhou/ChatGPT-NextWeb/main/scripts/setup.sh)
 ```
 
-### 容器部署 Docker Deployment
-
-```shell
-docker pull yidadaa/chatgpt-next-web
-
-docker run -d -p 3000:3000 -e OPENAI_API_KEY="" -e CODE="" yidadaa/chatgpt-next-web
-```
+#
 
 ## 截图 Screenshots
 
