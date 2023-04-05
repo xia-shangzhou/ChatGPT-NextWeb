@@ -52,7 +52,7 @@ fi
 
 # Clone the repository and install dependencies
 git clone https://github.com/xia-shangzhou/ChatGPT-NextWeb
-cd ChatGPT-Next-Web
+cd ChatGPT-NextWeb
 yarn install
 
 # Prompt user for environment variables
